@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>ff_ultima</RootNamespace>
+    <RootNamespace>ultima</RootNamespace>
   </PropertyGroup>
 
 </Project>
